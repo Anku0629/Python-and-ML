@@ -1,2 +1,2 @@
 # Python-and-ML
-Includes Python And ML Assignments.
+Includes Python And ML Assignments
